@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Suenaga-Ryuya/Suenaga-Ryuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Stats
+![Suenaga Ryuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suenaga-Ryuya&show_icons=true&theme=radical)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suenaga-Ryuya&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+#### Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,python,js,aws&perline=3" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 #### Certification
 <span>
   <img width="100px" height="100px" src="https://images.credly.com/images/3599ecf5-baa4-4b3d-87b4-501a48a125c9/Japan_Silver_Java_SE_Programmer_Badge__1_.png">
