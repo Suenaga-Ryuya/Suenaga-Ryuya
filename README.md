@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://images.credly.com/images/3599ecf5-baa4-4b3d-87b4-501a48a125c9/Japan_Silver_Java_SE_Programmer_Badge__1_.png">
+[<img src="https://images.credly.com/images/3599ecf5-baa4-4b3d-87b4-501a48a125c9/Japan_Silver_Java_SE_Programmer_Badge__1_.png">
+](https://images.credly.com/images/3599ecf5-baa4-4b3d-87b4-501a48a125c9/Japan_Silver_Java_SE_Programmer_Badge__1_.png)
