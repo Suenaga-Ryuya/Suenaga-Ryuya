@@ -40,7 +40,7 @@ comming soon...
 ### :bulb: Interests
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,electron,flutter,rust" />
+    <img src="https://skillicons.dev/icons?i=elixir,electron,dart,flutter,rust" />
   </a>
 </p>
 
