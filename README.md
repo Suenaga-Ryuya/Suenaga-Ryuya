@@ -33,7 +33,7 @@ comming soon...
 ### :open_book: Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,react,bun,blender,nodejs,flask,laravel,ts,docke" />
+    <img src="https://skillicons.dev/icons?i=vite,react,bun,blender,nodejs,flask,laravel,ts,docker,gatsby" />
   </a>
 </p>
 
