@@ -26,7 +26,7 @@ comming soon...
 ### :clipboard: Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,python,aws,wordpress,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,python,aws,wordpress,mysql,git,github,dynamodb" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ comming soon...
 ### :bulb: Interests
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,electron,dart,flutter,julia,solidjs,rust,vue,go" />
+    <img src="https://skillicons.dev/icons?i=elixir,electron,dart,flutter,julia,solidjs,rust,vue,go,elysia,prisma" />
   </a>
 </p>
 
