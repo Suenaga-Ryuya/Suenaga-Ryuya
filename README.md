@@ -19,15 +19,13 @@ etc.
 ---
 
 ### :open_file_folder: Achivements
-**Web App for the Japanese sake with AWS Serverless**<br>
+**- Web App for the Japanese sake with AWS Serverless**<br>
 The goal of this project is to familiarize people with Japanese sakes and to enjoy drinking them more.
 It also is to be helpful for brewer to know whice sake is popular and to develop new products.
 
 As a backend engineer, I took part in the project and implemented all functions with python.
 
-
-
-**Collaborate with Connary Fagen Inc.**<br>
+**- Collaborate with Connary Fagen Inc.**<br>
 [Greycliff Japanese CF](https://connary.com/greycliff_japanese.html)
 
 ---
