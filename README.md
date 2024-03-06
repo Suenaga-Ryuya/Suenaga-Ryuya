@@ -23,7 +23,13 @@ etc.
 The goal of this project is to familiarize people with Japanese sakes and to enjoy drinking them more.
 It also is to be helpful for brewer to know whice sake is popular and to develop new products.
 
-As a backend engineer, I took part in the project and implemented all functions with python.
+As a backend engineer, I took part in the project and implemented all functions with Python.
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,dynamodb,react,python" />
+  </a>
+</p>
 
 **- Collaborate with Connary Fagen Inc.**<br>
 [Greycliff Japanese CF](https://connary.com/greycliff_japanese.html)
