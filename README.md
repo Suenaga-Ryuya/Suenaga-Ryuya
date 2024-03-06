@@ -32,28 +32,28 @@ As a backend engineer, I took part in the project and implemented all functions 
 </p>
 
 **- Collaborate with Connary Fagen Inc.**<br>
-[Greycliff Japanese CF](https://connary.com/greycliff_japanese.html)
+As one of Japanese people, I took part in the project of [Greycliff Japanese CF](https://connary.com/greycliff_japanese.html).
 
 ---
 
 ### :clipboard: Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,python,aws,wordpress,mysql,git,github,dynamodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,wordpress,aws,dynamodb" />
   </a>
 </p>
 
 ### :open_book: Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,react,bun,blender,nodejs,flask,laravel,ts,docker,gatsby" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,react,flask,laravel,bun,docker,vite,gatsby,blender" />
   </a>
 </p>
 
 ### :bulb: Interests
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,electron,dart,flutter,julia,solidjs,rust,vue,go,elysia,prisma" />
+    <img src="https://skillicons.dev/icons?i=vue,solidjs,dart,elixir,rust,go,julia,elysia,electron,flutter,prisma" />
   </a>
 </p>
 
