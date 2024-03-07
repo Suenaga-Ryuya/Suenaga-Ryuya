@@ -53,7 +53,7 @@ As one of Japanese people, I took part in the project of [Greycliff Japanese CF]
 ### :bulb: Interests
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/perline=10&icons?i=vue,solidjs,dart,elixir,rust,go,julia,elysia,electron,astro,flutter,prisma,tauri" />
+    <img src="https://skillicons.dev/icons?i=vue,solidjs,dart,elixir,rust,go,julia,elysia,electron,astro,flutter,prisma,tauri" />
   </a>
 </p>
 
