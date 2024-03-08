@@ -28,7 +28,7 @@ It was unefficient, so I had been developing efficiency tools by myself to creat
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python" />
+    <img src="https://skillicons.dev/icons?i=js,python,powershell,windows" />
   </a>
 </p>
 
@@ -52,40 +52,49 @@ As one of Japanese people, I took part in the project of [Greycliff Japanese CF]
 
 ---
 
-## :clipboard: Skills
+## :computer: Experience
+
+### :apple: OS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,md,vscode,wordpress,aws,dynamodb&perline=10" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&perline=10" />
   </a>
 </p>
 
-## :open_book: Learning
+### :clipboard: Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,md,vscode,wordpress,aws,dynamodb,powershell&perline=10" />
+  </a>
+</p>
+
+### :open_book: Learning
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nodejs,react,java,flask,laravel,bun,docker,vite,gatsby,blender&perline=10" />
   </a>
 </p>
 
-## :bulb: Interests
+### :bulb: Interests
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,solidjs,dart,elixir,rust,go,julia,elysia,django,electron,astro,flutter,prisma,tauri&perline=10" />
   </a>
 </p>
 
-## :trophy: Certification
+### :trophy: Certification
 <span>
   <img width="50px" height="50px" src="https://images.credly.com/images/3599ecf5-baa4-4b3d-87b4-501a48a125c9/Japan_Silver_Java_SE_Programmer_Badge__1_.png">
   <img width="50px" height="50px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
 </span>
 
-## :mailbox: Contact
+### :mailbox: Contact
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,gmail,instagram,twitter" />
   </a>
 </p>
 
-## Stats
+## :bar_chart: Stats
 ![Suenaga Ryuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suenaga-Ryuya&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suenaga-Ryuya&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
