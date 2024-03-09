@@ -71,14 +71,14 @@ As one of Japanese people, I took part in the project of [Greycliff Japanese CF]
 ### :open_book: Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,react,java,flask,laravel,bun,docker,vite,gatsby,blender&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,java,flask,laravel,bun,docker,vite,gatsby,blender&perline=10" />
   </a>
 </p>
 
 ### :bulb: Interests
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,solidjs,dart,elixir,rust,go,julia,elysia,vuetify,django,electron,astro,flutter,prisma,tauri&perline=10" />
+    <img src="https://skillicons.dev/icons?i=vue,solidjs,dart,elixir,rust,go,julia,elysia,remix,vuetify,django,electron,astro,flutter,prisma,tauri&perline=10" />
   </a>
 </p>
 
