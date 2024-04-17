@@ -94,7 +94,3 @@ As one of Japanese people, I took part in the project of [Greycliff Japanese CF]
     <img src="https://skillicons.dev/icons?i=discord,gmail,instagram,twitter" />
   </a>
 </p>
-
-## :bar_chart: Stats
-![Suenaga Ryuya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suenaga-Ryuya&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suenaga-Ryuya&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
