@@ -47,6 +47,17 @@ As a backend engineer, I joined the project and implemented all functions with P
   </a>
 </p>
 
+### **_- Web App for competitions and events with AWS Serverless_**
+The goal of this project is to gather events and competitions for user.
+
+As a fullstack engineer, I joined the project.
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,dynamodb,html,css,scss,javascript,mysql,python&perline=4" />
+  </a>
+</p>
+
 ### **- Collaborate with Connary Fagen Inc.**
 As one of Japanese people, I took part in the project of [Greycliff Japanese CF](https://connary.com/greycliff_japanese.html).
 
