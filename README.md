@@ -61,6 +61,16 @@ As a fullstack engineer, I joined the project.
 ### **- Collaborate with Connary Fagen Inc.**
 As one of Japanese people, I took part in the project of [Greycliff Japanese CF](https://connary.com/greycliff_japanese.html).
 
+## :file_folder: Self projects
+
+### **- Own blog**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,astro,cloudflare,tailwind&perline=4" />
+  </a>
+</p>
+
 ---
 
 ## :computer: Experience
