@@ -27,8 +27,8 @@ In this project, we mainly use excel, csv and google spread sheet manually.
 It was unefficient, so I had been developing efficiency tools by myself to create files automatically.
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,powershell,windows" />
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,python,powershell,windows" />
   </a>
 </p>
 
@@ -42,8 +42,8 @@ It also is to be helpful for brewer to know whice sake is popular and to develop
 As a backend engineer, I joined the project and implemented all functions with Python.
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,dynamodb,react,python" />
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,react,python" />
   </a>
 </p>
 
@@ -53,8 +53,8 @@ The goal of this project is to gather events and competitions for user.
 As a fullstack engineer, I joined the project.
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,dynamodb,html,css,scss,javascript,mysql,python&perline=4" />
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,html,css,scss,javascript,mysql,python&perline=4" />
   </a>
 </p>
 
@@ -66,8 +66,8 @@ As one of Japanese people, I took part in the project of [Greycliff Japanese CF]
 ### **- Own blog**
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,astro,cloudflare,tailwind&perline=4" />
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,astro,cloudflare,tailwind&perline=4" />
   </a>
 </p>
 
@@ -77,29 +77,29 @@ As one of Japanese people, I took part in the project of [Greycliff Japanese CF]
 
 ### :apple: OS
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&perline=10" />
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,apple,linux,ubuntu&perline=10" />
   </a>
 </p>
 
 ### :clipboard: Skills
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,md,vscode,wordpress,aws,dynamodb,powershell&perline=10" />
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,python,mysql,git,github,md,vscode,wordpress,aws,dynamodb,powershell&perline=10" />
   </a>
 </p>
 
 ### :open_book: Learning
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,java,flask,laravel,symfony,bun,docker,vite,gatsby,astro,blender&perline=10" />
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,deno,react,java,flask,laravel,symfony,bun,docker,vite,gatsby,astro,blender&perline=10" />
   </a>
 </p>
 
 ### :bulb: Interests
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,solidjs,dart,elixir,rust,go,julia,elysia,remix,vuetify,pinia,nestjs,django,electron,flutter,prisma,tauri&perline=10" />
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,solidjs,dart,elixir,rust,go,julia,elysia,remix,vuetify,pinia,nestjs,django,electron,flutter,prisma,tauri&perline=10" />
   </a>
 </p>
 
@@ -111,7 +111,7 @@ As one of Japanese people, I took part in the project of [Greycliff Japanese CF]
 
 ### :mailbox: Contact
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gmail,instagram,twitter" />
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord,gmail,instagram,twitter" />
   </a>
 </p>
