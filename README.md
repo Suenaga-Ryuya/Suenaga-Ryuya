@@ -28,7 +28,7 @@ It was unefficient, so I had been developing efficiency tools by myself to creat
 
 <p align="left">
   <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,python,powershell,windows" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,python,powershell,windows,googleappsscript&perline=4" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ As a backend engineer, I joined the project and implemented all functions with P
 
 <p align="left">
   <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,react,python" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,react,python,stripe&perline=4" />
   </a>
 </p>
 
