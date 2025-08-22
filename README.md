@@ -28,7 +28,7 @@ It was unefficient, so I had been developing efficiency tools by myself to creat
 
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,python,powershell,windows,googleappsscript&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,python,powershell,windows,googleappsscript&perline=4&theme=dark" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ As a backend engineer, I joined the project and implemented all functions with P
 
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,react,python,stripe&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,react,python,stripe&perline=4&theme=dark" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ As a fullstack engineer, I joined the project.
 
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,html,css,scss,javascript,mysql,python&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,html,css,scss,javascript,mysql,python&perline=4&theme=dark" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@ As one of Japanese people, I took part in the project of [Greycliff Japanese CF]
 
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,astro,cloudflare,tailwind&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,astro,cloudflare,tailwind&perline=4&theme=dark" />
   </a>
 </p>
 
@@ -78,28 +78,28 @@ As one of Japanese people, I took part in the project of [Greycliff Japanese CF]
 ### :apple: OS
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,apple,linux,ubuntu&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,apple,linux,ubuntu&perline=10&theme=dark" />
   </a>
 </p>
 
 ### :clipboard: Skills
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,python,mysql,git,github,md,vscode,wordpress,aws,dynamodb,powershell&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,python,mysql,git,github,md,vscode,wordpress,aws,dynamodb,powershell&perline=10&theme=dark" />
   </a>
 </p>
 
 ### :open_book: Learning
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,deno,react,java,flask,laravel,symfony,bun,docker,vite,gatsby,astro,blender&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,deno,react,java,flask,laravel,symfony,bun,docker,vite,gatsby,astro,blender&perline=10&theme=dark" />
   </a>
 </p>
 
 ### :bulb: Interests
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,solidjs,dart,elixir,rust,go,julia,elysia,remix,vuetify,pinia,nestjs,django,electron,flutter,prisma,tauri&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,solidjs,dart,elixir,rust,go,julia,elysia,remix,vuetify,pinia,nestjs,django,electron,flutter,prisma,tauri&perline=10&theme=dark" />
   </a>
 </p>
 
