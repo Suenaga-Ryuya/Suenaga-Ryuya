@@ -108,10 +108,3 @@ As one of Japanese people, I took part in the project of [Greycliff Japanese CF]
   <img width="50px" height="50px" src="https://images.credly.com/images/3599ecf5-baa4-4b3d-87b4-501a48a125c9/Japan_Silver_Java_SE_Programmer_Badge__1_.png">
   <img width="50px" height="50px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
 </span>
-
-### :mailbox: Contact
-<p align="left">
-  <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord,gmail,instagram,twitter" />
-  </a>
-</p>
