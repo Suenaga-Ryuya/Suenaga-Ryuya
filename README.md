@@ -28,7 +28,7 @@ It was unefficient, so I had been developing efficiency tools by myself to creat
 
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,python,powershell,windows,googleappsscript&perline=4&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,python,pandas,powershell,windows,googleappsscript&perline=4&theme=dark" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ As a backend engineer, I joined the project and implemented all functions with P
 
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,react,python,stripe&perline=4&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,lambda,react,python,stripe&perline=4&theme=dark" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@ As a fullstack engineer, I joined the project.
 
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,resend,wordpress,typescript,javascript,sqlite&perline=4&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,resend,wordpress,payload,typescript,javascript,sqlite&perline=4&theme=dark" />
   </a>
 </p>
 
