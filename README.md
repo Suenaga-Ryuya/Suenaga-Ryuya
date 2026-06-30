@@ -108,7 +108,7 @@ As one of Japanese people, I took part in the project of [Greycliff Japanese CF]
 ### :bulb: Interests
 <p align="left">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,solidjs,dart,elixir,rust,go,julia,elysia,remix,vuetify,pinia,nestjs,django,electron,flutter,prisma,tauri&perline=10&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,solidjs,dart,elixir,rust,go,swift,julia,elysia,remix,vuetify,pinia,nestjs,django,electron,flutter,prisma,tauri&perline=10&theme=dark" />
   </a>
 </p>
 
