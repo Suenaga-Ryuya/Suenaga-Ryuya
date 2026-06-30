@@ -58,12 +58,21 @@ As a fullstack engineer, I joined the project.
   </a>
 </p>
 
-### **- Collaborate with Connary Fagen Inc.**
+### **_- Media site for events with Payload CMS_**
+As a fullstack engineer, I joined the project.
+
+<p align="left">
+  <a>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,resend,wordpress,typescript,javascript,sqlite&perline=4&theme=dark" />
+  </a>
+</p>
+
+### **_- Collaborate with Connary Fagen Inc._**
 As one of Japanese people, I took part in the project of [Greycliff Japanese CF](https://connary.com/greycliff_japanese.html).
 
 ## :file_folder: Self projects
 
-### **- Own blog**
+### **_- Own blog_**
 
 <p align="left">
   <a>
